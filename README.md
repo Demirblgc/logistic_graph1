@@ -34,3 +34,6 @@ The project focuses on building an end-to-end Python workflow for:
 * **Data Visualization**: 
   * `plotly.express` / `plotly.graph_objects` for interactive web-ready figures.
   * `seaborn` & `matplotlib` for static diagnostic plots and heatmaps.
+ 
+  * ### Some important consequences
+  * Please focus on 3 countries's development rates. China,Poland and Turkey should be rewiev.
