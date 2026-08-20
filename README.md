@@ -1,3 +1,6 @@
+
+"file used initially :data.xlsx and I used html documents for my presentation"
+"If you want to directly use panel format data panel_data_full_raw.xlsx"
 # 🚚 Trade, Logistics & Transport CO2 Emissions Analysis
 
 This repository contains a comprehensive exploratory data analysis (EDA) and automated data preprocessing pipeline investigating the interplay between international trade openness, logistics infrastructure, high-technology exports, and transport-related CO2 emissions across selected economies (e.g., China, Turkey, Poland, Switzerland).
