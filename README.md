@@ -29,6 +29,7 @@ The project focuses on building an end-to-end Python workflow for:
 
 ### 🐍 Python (Data Pipeline & Visualization)
 * **Data Manipulation**: `pandas`, `numpy` for data structure alignment, missing value management, and variable transformations.
+* ** In this project the missingno library has been used to fix systematical missing values.
 * **Exploratory Data Analysis (EDA)**: Correlation matrices, summary statistics, and multi-variable relationship inspection.
 * **Data Visualization**: 
   * `plotly.express` / `plotly.graph_objects` for interactive web-ready figures.
